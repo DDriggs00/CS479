@@ -1,0 +1,353 @@
+{
+    "Message": "Success",
+    "Type": 100,
+    "SponsoredData": [],
+    "Data": [
+        {
+            "CoinInfo": {
+                "Id": "1182",
+                "Name": "BTC",
+                "FullName": "Bitcoin",
+                "Internal": "BTC",
+                "ImageUrl": "/media/19633/btc.png",
+                "Url": "/coins/btc/overview",
+                "Algorithm": "SHA256",
+                "ProofType": "PoW",
+                "NetHashesPerSecond": 45665257607.0547,
+                "BlockNumber": 569668,
+                "BlockTime": 600,
+                "BlockReward": 12.5,
+                "Type": 1,
+                "DocumentType": "Webpagecoinp"
+            },
+            "ConversionInfo": {
+                "Conversion": "direct",
+                "ConversionSymbol": "",
+                "CurrencyFrom": "BTC",
+                "CurrencyTo": "USD",
+                "Market": "CCCAGG",
+                "Supply": 17620525,
+                "TotalVolume24H": 281608.133326293,
+                "SubBase": "5~",
+                "SubsNeeded": [
+                    "5~CCCAGG~BTC~USD"
+                ],
+                "RAW": [
+                    "5~CCCAGG~BTC~USD~1~4131.05~1554082707~0.04075947~167.2071661863~15540827068004720000~7136.483728036509~29384356.04979339~19290.915388081805~79349327.93852481~4112.79~4145.67~4082.2~4105.55~4150.28~4071.21~Bitlish~2341.318180761697~9684155.601358956~4128.31~4145.67~4126.87~ffffe9"
+                ]
+            }
+        },
+        {
+            "CoinInfo": {
+                "Id": "5031",
+                "Name": "XRP",
+                "FullName": "XRP",
+                "Internal": "XRP",
+                "ImageUrl": "/media/34477776/xrp.png",
+                "Url": "/coins/xrp/overview",
+                "Algorithm": "N/A",
+                "ProofType": "N/A",
+                "NetHashesPerSecond": 0,
+                "BlockNumber": 0,
+                "BlockTime": 4,
+                "BlockReward": 0,
+                "Type": 1,
+                "DocumentType": "Webpagecoinp"
+            },
+            "ConversionInfo": {
+                "Conversion": "direct",
+                "ConversionSymbol": "",
+                "CurrencyFrom": "XRP",
+                "CurrencyTo": "USD",
+                "Market": "CCCAGG",
+                "Supply": 99991850794,
+                "TotalVolume24H": 1039598347.1881261,
+                "SubBase": "5~",
+                "SubsNeeded": [
+                    "5~CCCAGG~XRP~USD"
+                ],
+                "RAW": [
+                    "5~CCCAGG~XRP~USD~4~0.3111~1554082689~3~0.9279000000000001~260721~4950426.368097694~1538268.920885327~28736510.152335025~8926652.305473067~0.3109~0.3123~0.3092~0.3126~0.3129~0.3084~Coinbase~1574509.4695873861~487570.3844466759~0.3115~0.3123~0.311~ffffe9"
+                ]
+            }
+        },
+        {
+            "CoinInfo": {
+                "Id": "929163",
+                "Name": "CR",
+                "FullName": "CryptoRiyal",
+                "Internal": "CR",
+                "ImageUrl": "/media/35520996/cr.png",
+                "Url": "/coins/cr/overview",
+                "Algorithm": "N/A",
+                "ProofType": "N/A",
+                "NetHashesPerSecond": 0,
+                "BlockNumber": 0,
+                "BlockTime": 0,
+                "BlockReward": 0,
+                "Type": 1,
+                "DocumentType": "Webpagecoinp"
+            },
+            "ConversionInfo": {
+                "Conversion": "multiply",
+                "ConversionSymbol": "ETH",
+                "CurrencyFrom": "CR",
+                "CurrencyTo": "USD",
+                "Market": "CCCAGG",
+                "Supply": 2000000000,
+                "TotalVolume24H": 7277.136000002189,
+                "SubBase": "5~",
+                "SubsNeeded": [
+                    "5~CCCAGG~CR~ETH",
+                    "5~CCCAGG~ETH~USD"
+                ],
+                "RAW": [
+                    "5~CCCAGG~CR~ETH~2~0.041~1554041214~2.155~0.08835499999999999~15540412142501~733.3339999999986~38.92981400000003~5836.275000000017~315.5191894999978~0.041~0.081~0.041~0.037~0.081~0.037~BitMart~284.35400000000004~15.09523399999999~0.041~0.081~0.041~ffffe9",
+                    "5~CCCAGG~ETH~USD~4~143.1~1554082700~0.17~24.123~45903426~69749.2434898194~9902182.5328461~185051.12624741063~26299435.33495771~142.4~143.94~140.08~141.99~144.13~139.73~Coinbase~22240.697918090056~3190910.551726518~142.69~143.94~142.69~ffffe9"
+                ]
+            }
+        },
+        {
+            "CoinInfo": {
+                "Id": "7605",
+                "Name": "ETH",
+                "FullName": "Ethereum",
+                "Internal": "ETH",
+                "ImageUrl": "/media/20646/eth_logo.png",
+                "Url": "/coins/eth/overview",
+                "Algorithm": "Ethash",
+                "ProofType": "PoW",
+                "NetHashesPerSecond": 135191521902784,
+                "BlockNumber": 7479634,
+                "BlockTime": 15,
+                "BlockReward": 2,
+                "Type": 1,
+                "DocumentType": "Webpagecoinp"
+            },
+            "ConversionInfo": {
+                "Conversion": "direct",
+                "ConversionSymbol": "",
+                "CurrencyFrom": "ETH",
+                "CurrencyTo": "USD",
+                "Market": "CCCAGG",
+                "Supply": 105471136.6866,
+                "TotalVolume24H": 6951071.16436531,
+                "SubBase": "5~",
+                "SubsNeeded": [
+                    "5~CCCAGG~ETH~USD"
+                ],
+                "RAW": [
+                    "5~CCCAGG~ETH~USD~4~143.1~1554082700~0.17~24.123~45903426~69749.2434898194~9902182.5328461~185051.12624741063~26299435.33495771~142.4~143.94~140.08~141.99~144.13~139.73~Coinbase~22240.697918090056~3190910.551726518~142.69~143.94~142.69~ffffe9"
+                ]
+            }
+        },
+        {
+            "CoinInfo": {
+                "Id": "166503",
+                "Name": "EOS",
+                "FullName": "EOS",
+                "Internal": "EOS",
+                "ImageUrl": "/media/1383652/eos_1.png",
+                "Url": "/coins/eos/overview",
+                "Algorithm": "DPoS",
+                "ProofType": "DPoS",
+                "NetHashesPerSecond": 0,
+                "BlockNumber": 50594080,
+                "BlockTime": 3,
+                "BlockReward": 0,
+                "Type": 1,
+                "DocumentType": "Webpagecoinp"
+            },
+            "ConversionInfo": {
+                "Conversion": "direct",
+                "ConversionSymbol": "",
+                "CurrencyFrom": "EOS",
+                "CurrencyTo": "USD",
+                "Market": "CCCAGG",
+                "Supply": 1039690184.2887,
+                "TotalVolume24H": 189481603.5133809,
+                "SubBase": "5~",
+                "SubsNeeded": [
+                    "5~CCCAGG~EOS~USD"
+                ],
+                "RAW": [
+                    "5~CCCAGG~EOS~USD~4~4.26~1554082681~7.319~31.217730699999997~345980444~149969.23490865016~635743.4417105475~1827885.4543653901~7753396.570838288~4.25~4.29~4.2~4.17~4.32~4.15~Bitfinex~42285.93682975~180637.5677066525~4.26~4.29~4.26~ffffe9"
+                ]
+            }
+        },
+        {
+            "CoinInfo": {
+                "Id": "3808",
+                "Name": "LTC",
+                "FullName": "Litecoin",
+                "Internal": "LTC",
+                "ImageUrl": "/media/35309662/ltc.png",
+                "Url": "/coins/ltc/overview",
+                "Algorithm": "Scrypt",
+                "ProofType": "PoW",
+                "NetHashesPerSecond": 306179951558962,
+                "BlockNumber": 1606447,
+                "BlockTime": 150,
+                "BlockReward": 25,
+                "Type": 1,
+                "DocumentType": "Webpagecoinp"
+            },
+            "ConversionInfo": {
+                "Conversion": "direct",
+                "ConversionSymbol": "",
+                "CurrencyFrom": "LTC",
+                "CurrencyTo": "USD",
+                "Market": "CCCAGG",
+                "Supply": 61137311.4890286,
+                "TotalVolume24H": 8493089.945584282,
+                "SubBase": "5~",
+                "SubsNeeded": [
+                    "5~CCCAGG~LTC~USD"
+                ],
+                "RAW": [
+                    "5~CCCAGG~LTC~USD~4~60.91~1554082705~203.894~12553.75358~345980483~35360.093494030116~2148879.8305715015~143932.54688043~8722118.487476598~60.76~61.16~60.31~60.27~61.19~60.11~Bitfinex~21858.342042760014~1331669.9531077207~60.7~61.16~60.68~ffffe9"
+                ]
+            }
+        },
+        {
+            "CoinInfo": {
+                "Id": "204788",
+                "Name": "BNB",
+                "FullName": "Binance Coin",
+                "Internal": "BNB",
+                "ImageUrl": "/media/1383947/bnb.png",
+                "Url": "/coins/bnb/overview",
+                "Algorithm": "N/A",
+                "ProofType": "N/A",
+                "NetHashesPerSecond": 0,
+                "BlockNumber": 0,
+                "BlockTime": 0,
+                "BlockReward": 0,
+                "Type": 1,
+                "DocumentType": "Webpagecoinp"
+            },
+            "ConversionInfo": {
+                "Conversion": "multiply",
+                "ConversionSymbol": "BTC",
+                "CurrencyFrom": "BNB",
+                "CurrencyTo": "USD",
+                "Market": "CCCAGG",
+                "Supply": 189175490.242499,
+                "TotalVolume24H": 6700978.4250869285,
+                "SubBase": "5~",
+                "SubsNeeded": [
+                    "5~CCCAGG~BNB~BTC",
+                    "5~CCCAGG~BTC~USD"
+                ],
+                "RAW": [
+                    "5~CCCAGG~BNB~BTC~4~0.004227~1554082695~0.0246~0.000103974114~560812726~177750.22460000042~753.525053550718~2589208.623~10977.823897773831~0.004269~0.004274~0.004213~0.004116~0.004324~0.004106~BitZ~77466.03950000009~327.4018693650332~0.004239~0.004242~0.004213~ffffe9",
+                    "5~CCCAGG~BTC~USD~1~4131.05~1554082707~0.04075947~167.2071661863~15540827068004720000~7136.483728036509~29384356.04979339~19290.915388081805~79349327.93852481~4112.79~4145.67~4082.2~4105.55~4150.28~4071.21~Bitlish~2341.318180761697~9684155.601358956~4128.31~4145.67~4126.87~ffffe9"
+                ]
+            }
+        },
+        {
+            "CoinInfo": {
+                "Id": "202330",
+                "Name": "BCH",
+                "FullName": "Bitcoin Cash",
+                "Internal": "BCH",
+                "ImageUrl": "/media/1383919/12-bitcoin-cash-square-crop-small-grn.png",
+                "Url": "/coins/bch/overview",
+                "Algorithm": "SHA256",
+                "ProofType": "PoW",
+                "NetHashesPerSecond": 46048296615652000000,
+                "BlockNumber": 569669,
+                "BlockTime": 600,
+                "BlockReward": 0,
+                "Type": 1,
+                "DocumentType": "Webpagecoinp"
+            },
+            "ConversionInfo": {
+                "Conversion": "direct",
+                "ConversionSymbol": "",
+                "CurrencyFrom": "BCH",
+                "CurrencyTo": "USD",
+                "Market": "CCCAGG",
+                "Supply": 17620833.5449724,
+                "TotalVolume24H": 721536.8756510057,
+                "SubBase": "5~",
+                "SubsNeeded": [
+                    "5~CCCAGG~BCH~USD"
+                ],
+                "RAW": [
+                    "5~CCCAGG~BCH~USD~2~169.22~1554082681~0.11864507~19.9727110838~9450969~7794.192239419985~1318969.0736661984~30282.46234617~5101336.824140447~169.54~170.37~167.3~166.13~170.57~165.87~Coinbase~1729.6155131799999~293596.8943417436~169.95~170.37~169.22~ffffe9"
+                ]
+            }
+        },
+        {
+            "CoinInfo": {
+                "Id": "4614",
+                "Name": "XLM",
+                "FullName": "Stellar",
+                "Internal": "XLM",
+                "ImageUrl": "/media/35521289/xlm.png",
+                "Url": "/coins/xlm/overview",
+                "Algorithm": "N/A",
+                "ProofType": "N/A",
+                "NetHashesPerSecond": 0,
+                "BlockNumber": 0,
+                "BlockTime": 0,
+                "BlockReward": 0,
+                "Type": 1,
+                "DocumentType": "Webpagecoinp"
+            },
+            "ConversionInfo": {
+                "Conversion": "direct",
+                "ConversionSymbol": "",
+                "CurrencyFrom": "XLM",
+                "CurrencyTo": "USD",
+                "Market": "CCCAGG",
+                "Supply": 19248142942,
+                "TotalVolume24H": 533831687.72160584,
+                "SubBase": "5~",
+                "SubsNeeded": [
+                    "5~CCCAGG~XLM~USD"
+                ],
+                "RAW": [
+                    "5~CCCAGG~XLM~USD~1~0.1071~1554082699~214~23.326856~119598~2522325.513562091~270072.6466822475~30250887.01990625~3218243.5894687767~0.1065~0.1074~0.1062~0.1062~0.115~0.1058~Coinbase~1221472.9726477703~131304.4588798973~0.1064~0.1071~0.1064~ffffe9"
+                ]
+            }
+        },
+        {
+            "CoinInfo": {
+                "Id": "171986",
+                "Name": "USDT",
+                "FullName": "Tether",
+                "Internal": "USDT",
+                "ImageUrl": "/media/1383672/usdt.png",
+                "Url": "/coins/usdt/overview",
+                "Algorithm": "N/A",
+                "ProofType": "N/A",
+                "NetHashesPerSecond": 0,
+                "BlockNumber": 0,
+                "BlockTime": 0,
+                "BlockReward": 0,
+                "Type": 1,
+                "DocumentType": "Webpagecoinp"
+            },
+            "ConversionInfo": {
+                "Conversion": "direct",
+                "ConversionSymbol": "",
+                "CurrencyFrom": "USDT",
+                "CurrencyTo": "USD",
+                "Market": "CCCAGG",
+                "Supply": 2028852790,
+                "TotalVolume24H": 35762389.11463317,
+                "SubBase": "5~",
+                "SubsNeeded": [
+                    "5~CCCAGG~USDT~USD"
+                ],
+                "RAW": [
+                    "5~CCCAGG~USDT~USD~4~1~1554082672~89.05~88.578035~2794566~321908.0364125601~322636.79067386664~2705058.0575685073~2709239.860389348~1~1~1~1~1~1~OKCoin~165439.95584900992~165366.51637412162~1~1~1~ffffe9"
+                ]
+            }
+        }
+    ],
+    "RateLimit": {},
+    "HasWarning": "False"
+}
