@@ -1,5 +1,4 @@
 import requests
-import json
 
 # Get API key
 # ApiKey.txt contians only a CryptoCompare API Key
