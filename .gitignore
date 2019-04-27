@@ -2,8 +2,8 @@
 ApiKey.txt
 Pipfile.lock
 
-# Database files
-*.db
+# Database files 
+# *.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -110,3 +110,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 .vscode
+apiKey.txt
