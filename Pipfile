@@ -15,6 +15,7 @@ pandas = "*"
 sympy = "*"
 nose = "*"
 scikit-learn = "*"
+tkinter = "*"
 
 [dev-packages]
 pytest = "*"
